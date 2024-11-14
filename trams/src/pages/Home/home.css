@@ -1,0 +1,8 @@
+/* Add this to home.css */
+.bg-line {
+    background-image: url('../../assets/home-line.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover; /* Or adjust as needed */
+  }
+  
